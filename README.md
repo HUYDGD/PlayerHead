@@ -1,5 +1,5 @@
-## PlayerHeadPMMP
-# Plugin manager of the player's head
+# PlayerHeadPMMP
+## Plugin manager of the player's head
 # Commands
 /playerhead <player Name> - Take the player's head
 # Permissions
