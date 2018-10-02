@@ -1,0 +1,17 @@
+name: PlayerHead
+version: 1.0
+main: Enes5519\PlayerHead\PlayerHead
+api: [3.0.0-ALPHA12, 3.0.1, 3.0.2, 3.0.3, 4.0.0]
+author: Enes5519
+fixer: WolfTubeTM
+
+permissions:
+  playerhead:
+    default: op
+    children:
+      playerhead.give:
+        default: op
+      playerhead.spawn:
+        default: op
+      playerhead.attack:
+        default: op
